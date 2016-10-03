@@ -60,13 +60,13 @@ Taken from different docs:
 
 ### How to name classes?
 
-Nunca vamos a crear estilos para un tipo de etiqueta en concreto. Por ejemplo, esto esta mal:
+Do not create a style for a specific label. For example, this is wrong:
 ```css
 .header h1 {
 
 }
 ```
-En vez de eso, crear un estilo para el título:
+Instead, create a style for the title:
 ```css
 .title {
 
