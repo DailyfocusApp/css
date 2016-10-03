@@ -1,8 +1,8 @@
-# <img src="https://raw.githubusercontent.com/DailyFocusApp/dailyfocus/master/client/web/public/dev/images/dailyfocus__logo.png?token=AG6Ezx6WKuJbbXHUr08LgDJ8B_5RJEPbks5X-36LwA%3D%3D" width=100px" /><br />Dailfocus Inc - Styleguide CSS/Saas
+# <img src="https://raw.githubusercontent.com/DailyFocusApp/dailyfocus/master/client/web/public/dev/images/dailyfocus__logo.png?token=AG6Ezx6WKuJbbXHUr08LgDJ8B_5RJEPbks5X-36LwA%3D%3D" width=100px" /><br />Dailfocus Inc - Styleguide CSS/Sass
 
 **WORK IN PROGRESS. Not finished yet and can contains a bunch of typos**
 
-Styleguide for CSS and Saas made by Dailyfocus Inc and used across all the company projects.
+Styleguide for CSS and Sass made by Dailyfocus Inc and used across all the company projects.
 
 Disclaimer: This styleguide collects a bunch of ideas inspired by other companies styleguide and adapted to our needs. You can see in credits a great bunch of resources.
 
