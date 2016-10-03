@@ -1,4 +1,4 @@
-# <img src="client/web/public/dev/images/dailyfocus__logo.png" width=100px" /><br />Dailfocus Inc.
+# <img src="https://raw.githubusercontent.com/DailyFocusApp/dailyfocus/master/client/web/public/dev/images/dailyfocus__logo.png?token=AG6Ezx6WKuJbbXHUr08LgDJ8B_5RJEPbks5X-36LwA%3D%3D" width=100px" /><br />Dailfocus Inc.
 
 **WORK IN PROGRESS. Not finished yet and can contains a bunch of typos**
 
