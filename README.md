@@ -13,8 +13,7 @@ Our style is a slightly modified version of the BEM methodology.
 We understand 3 types of terms:
 
 1. Component: Standalone entity that is meaningful on its own.
-   Example: `header`, `c
-   ontainer`, `menu`, `checkbox`, `input`, `button`
+   Example: `header`, `container`, `menu`, `checkbox`, `input`, `button`
 
 2. Element: Parts of a Component and have no standalone meaning. They are semantically tied to its Component.
    Example: `header__title`, `menu__items`, `checkbox__options`
@@ -31,14 +30,14 @@ Taken from different docs:
 * **Indentation:** use soft tabs (2 spaces).
 * **Class name:** prefer dashes over camelCasing.
   Good:
-  `css
+  ```css
   .my_class_name {}
   .button {}
-  ``
+  ```
   Bad:
-  `css
+  ```css
   .myClassName {}
-  ``
+  ```
 * **Don't use #ID selectors**. They are only good on your javascript. Think in general components when you're writing your CSS.
 * When using multiple selectors in a rule declaration, give each selector its own line.
 * **Properties:** put a space after the : character (but not before).
@@ -50,24 +49,25 @@ Taken from different docs:
 
   *Good*
   ```
-  header.saas
-  chatPlugin.saas
+  header.sass
+  chatPlugin.sass
   ```
   *Bad*
   ```
-  header.saas
-  chat_plugin.saas
+  header.sass
+  chat_plugin.sass
   ```
 
 ### How to name classes?
 
 Nunca vamos a crear estilos para un tipo de etiqueta en concreto. Por ejemplo, esto esta mal:
-
+```css
 .header h1 {
 
 }
-
+```
 En vez de eso, crear un estilo para el título:
+```css
 .title {
 
 }
@@ -75,6 +75,7 @@ En vez de eso, crear un estilo para el título:
 .title__big {
 
 }
+```
 
 ### Examples
 
@@ -95,7 +96,7 @@ Given an example. We want to create our header. And our headder has a left part 
       <div class="header__right">
 
       </div>
-      
+
     </div>
     ```
 
@@ -116,7 +117,7 @@ Given an example. We want to create our header. And our headder has a left part 
     ```
 
 ### Adding new components
-The idea is to reuse every new component we create  
+The idea is to reuse every new component we create
 [TO BE DONE...]
 
 
