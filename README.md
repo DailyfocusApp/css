@@ -81,40 +81,39 @@ Instead, create a style for the title:
 
 Given an example. We want to create our header. And our headder has a left part and a right part.
 
-    ```html
+```html
+<div class="header">
 
-    <div class="header">
-
-      <div class="header__left">
-        <div class="logo logo__big">
-          <a href="logo__link">
-            DailyFocus
-          </a>
-        </div>
-      </div>
-
-      <div class="header__right">
-
-      </div>
-
+  <div class="header__left">
+    <div class="logo logo__big">
+      <a href="logo__link">
+        DailyFocus
+      </a>
     </div>
-    ```
+  </div>
 
-    ```css
-    .header {
-      width: 100%;
-      padding: 10px 0;
-      background: red;
-    }
+  <div class="header__right">
 
-    .header__left {
-      float: left;
-    }
+  </div>
 
-    .header__right {
-      float: right;
-    }
-    ```
+</div>
+```
+
+```css
+.header {
+  width: 100%;
+  padding: 10px 0;
+  background: red;
+}
+
+.header__left {
+  float: left;
+}
+
+.header__right {
+  float: right;
+}
+```
 
 ### Adding new components
 The idea is to reuse every new component we create
