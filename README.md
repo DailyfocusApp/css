@@ -1,7 +1,8 @@
+# <img src="client/web/public/dev/images/dailyfocus__logo.png" width=100px" /><br />Dailfocus Inc.
+
 **WORK IN PROGRESS. Not finished yet and can contains a bunch of typos**
 
-
-# Dailfocus CSS/Stylus Styleguide
+# Dailfocus CSS / Saas Styleguide
 
 Styleguide for CSS and Saas made by Dailyfocus Inc and used across all the company projects.
 
